@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/add.png</file>
+        <file>images/remove.png</file>
+        <file>images/icon.png</file>
+        <file>images/shooter.jpeg</file>
+    </qresource>
+</RCC>
